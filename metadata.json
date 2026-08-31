@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "Flowstate Shared",
+  "description": "Binder view, context generation, one-click cardflow entry, typewriter mode. Binder view needs to be fixed."
+}
